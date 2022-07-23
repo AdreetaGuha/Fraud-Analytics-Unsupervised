@@ -1,1 +1,3 @@
-# Load-Forecasting
+# New York Property Tax Fraud Detection
+The dataset used here is the Property Valuation and Assessment Data. The Department of Finance values properties every year as one step in calculating property tax bills. This dataset was created for this purpose. It has been collected from the following website: https://data.cityofnewyork.us/Housing-Development/Property-Valuation-and-Assessment-Data/rgy2-tti8 . We aim to build a tax fraud detection model by using unsupervised learning methods for anomaly detection, namely z-score outliers and autoencoders.
+The dataset has 1070994 records and 32 fields. It was created in the final assessment period of the assessment year 2010/11.
